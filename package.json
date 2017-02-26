@@ -1,6 +1,6 @@
 {
   "name": "@mrcalebfisher/npmschool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "how-to-npm test project",
   "main": "index.js",
   "scripts": {
