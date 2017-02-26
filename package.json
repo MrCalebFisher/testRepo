@@ -4,7 +4,7 @@
   "description": "how-to-npm test project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "MrCalebFisher",
   "license": "ISC",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MrCalebFisher/testRepo/issues"
   },
-  "homepage": "https://github.com/MrCalebFisher/testRepo#readme"
+  "homepage": "https://github.com/MrCalebFisher/testRepo#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
