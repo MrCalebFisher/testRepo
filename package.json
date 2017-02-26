@@ -1,0 +1,19 @@
+{
+  "name": "@mrcalebfisher/npmschool",
+  "version": "1.0.0",
+  "description": "how-to-npm test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrCalebFisher",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCalebFisher/testRepo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrCalebFisher/testRepo/issues"
+  },
+  "homepage": "https://github.com/MrCalebFisher/testRepo#readme"
+}
